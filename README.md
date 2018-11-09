@@ -2,6 +2,7 @@
 The newest solution in the market for getting food delivered to your doorstep instantly!
 This is the app that will help you earn money each time someone uses the application to order any food and get it delivered.
 
+
 Chief features of the app include:
 •	Easy to use User application
 •	Single download multiple Jobs for the Delivery Driver
@@ -11,6 +12,7 @@ Chief features of the app include:
 •	A web panel for the delivery driver
 •	Dynamic admin panel
 •	Marketing website
+
 
 How does the food delivery app help you make money?
 •	You don’t need to invest anything at all in the restaurant business or the driver network to start earning money with the food delivery system. All you need to do is to make sure that you have this powerful and seamless food delivery application. 
