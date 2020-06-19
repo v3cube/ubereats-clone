@@ -1,4 +1,4 @@
-# food-delivery-script
+# ubereats clone food-delivery-script
 The newest solution in the market for getting food delivered to your doorstep instantly!
 This is the app that will help you earn money each time someone uses the application to order any food and get it delivered.
 
